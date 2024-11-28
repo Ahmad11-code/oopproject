@@ -8,5 +8,7 @@ int main() {
 	cout << "hello world";
 
 
+	cout << "nerd";
+
 	return 0;
 }
