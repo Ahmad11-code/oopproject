@@ -1,41 +1,21 @@
-//#pragma once
-//
-//#include <iostream>
-//using namespace std;
-//
-//
-//class Menu;
-//
-//class Screen;
-//class inputSystem;
-//class SoundSystem;
-//class Leaderboard;
-//class Player;
-//class AchievementSystem;
-//class SnakeGame;
-//class wordleGame;
-//class HangmanGame;
-//class SnakeSegment;
-//class Grid;
-//class Point;
-//class Letter;
-//class Keyboard;
-//class wordDictionary;
-//class HangmanFigure;
-//class Category;
-//
-//
-//
-//
-//class Game {
-//protected:
-//	string name;
-//	int score;
-//	
-//	startGame();
-//	endGame();
-//	render();
-//
-//
-//
-//};
+#pragma once
+
+#include <iostream>
+using namespace std;
+
+
+
+
+
+class Game {
+protected:
+	string name;
+	int score;
+	
+	startGame();
+	endGame();
+	render();
+
+
+
+};
