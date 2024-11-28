@@ -11,6 +11,7 @@ private:
 	Keyboard virtualKeyboard;
 	WordDictionary wordDictionary;
 
+
 public:
 	validateWord();
 	updateKeyboard();
